@@ -1,0 +1,22 @@
+# Readme for Assignment 1 - Ali Hassan (F22BDOCS1E02011)
+
+# This zip file contains the following files:
+
+# 1. BFS_F22BDOCS1E02011.ipynb
+#    - This Jupyter Notebook contains the implementation of Breadth-First Search (BFS)
+#      to find the shortest path between 'S' and 'G' in a given graph.
+
+# 2. DFS_F22BDOCS1E02011.ipynb
+#    - This Jupyter Notebook contains the implementation of Depth-First Search (DFS)
+#      to find a path (not necessarily the shortest) between 'S' and 'G' in the same graph.
+
+# 3. Readme_F22BDOCS1E02011.ipynb
+#    - This Jupyter Notebook file contains a description of the files included within this zip archive.
+
+# 4. Report_F22BDOCS1E02011.pdf
+#    - This PDF file is a LaTeX-generated report that explains the problem, the
+#      solutions implemented using BFS and DFS, and a comparison of the results.
+#      It also contains the included python code from the .ipynb files.
+
+# The assignment aims to demonstrate the application of BFS and DFS algorithms
+# for pathfinding in a graph, with a focus on shortest path determination.
