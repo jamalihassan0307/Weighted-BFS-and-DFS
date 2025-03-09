@@ -2,7 +2,7 @@
 # Student ID: F22BDOCS1E02011
 # Assignment: Assignment 1 - DFS.ipynb
 
-#Depth first search (DFS) code write in python
+# Depth first search (DFS) code write in python
 
 
 

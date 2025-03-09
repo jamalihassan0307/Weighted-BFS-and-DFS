@@ -4,7 +4,7 @@
 
 
 
-#Breadth-First Search (BFS) code write in python
+# Breadth-First Search (BFS) code write in python
 def find_shortest_way(places, start_point, end_point):
 
  check_these_places = [(start_point, [start_point])] # places to look at later
